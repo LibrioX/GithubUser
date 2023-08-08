@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search_hint">Masukan Kata</string>
+    <string name="search">Search</string>
+    <string name="followers">Followers</string>
+    <string name="jumlahFollowers">20</string>
+    <string name="following">Following</string>
+    <string name="jumlahFollowing">20</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="landing_text">Cari Username Github!</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="FavoriteUser">FavoriteUser</string>
+    <string name="Settings">Settings</string>
+    <string name="favorite">favorite</string>
+    <string name="settings">settings</string>
+    <string name="share">share</string>
+    <string name="webview">webview</string>
+    <string name="favorite_user_anda_kosong">Tidak Ada Favorite User</string>
+
+</resources>
